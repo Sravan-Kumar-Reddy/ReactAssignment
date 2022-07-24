@@ -1,0 +1,9 @@
+#movieTitle {
+    font-size: 2rem;
+    ;
+    font-weight: bold;
+}
+
+table>tbody>tr>th {
+    width: 10%;
+}
